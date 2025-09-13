@@ -8939,7 +8939,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 
 
-
 ========== BRI LIGA 1 ===========
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png",LIVE | LIGA TARKAM
 
@@ -9082,10 +9081,7 @@ https://spacetv.my.id/index.mpd?id=4510895&type=dash
 
 
 
-
-
-
-========== BRI LIGA 1 ===========
+========== LIVE | PROLIGA ===========
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | PROLIGA
 #EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://iili.io/39ciYfS.png" group-title="LIVE | PROLIGA", MOJI 
 https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8 
